@@ -1,5 +1,3 @@
-Closes #{issue number}
-
 ## Summary
 
 - Added new page `/dashboard`
