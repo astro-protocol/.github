@@ -6,14 +6,9 @@ assignees: ''
 
 ---
 
-<!-- Please search this project's existing issues to avoid creating duplicates -->
+<!-- Please search existing issues to avoid creating duplicates -->
 
 ## Summary
 
-### What
-
 <!-- Explain what the feature is -->
-
-### Why
-
-<!-- Explain why the feature should be implemented -->
+<!-- Optionally, provide a reason why this feature is needed -->
