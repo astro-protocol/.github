@@ -1,6 +1,6 @@
 ---
 name: Performance Improvement
-description: Suggest an idea for improving performance
+about: Suggest an idea for improving performance
 title: 'perf: '
 assignees: ''
 
