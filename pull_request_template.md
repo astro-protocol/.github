@@ -6,8 +6,9 @@ Placeholder
 
 Items checked below are included in this pull request:
 
-- [ ] Write unit tests
-- [ ] Write integration tests
+- [ ] Documentation
+- [ ] Unit tests
+- [ ] Integration tests
 
 ## How to Test
 
@@ -20,14 +21,5 @@ Items checked below are included in this pull request:
 - [Astro UI](https://github.com/astro-protocol/astro-ui/pulls)
   - None
 
-- [Protocol Hosted Wallet (PHW)](https://github.com/astro-protocol/contract-testnet-protocol-hosted-wallet/pulls)
-  - None
-
-- [USDA Contract](https://github.com/astro-protocol/contract-token-usda-ao/pulls)
-  - None
-
-- [Vault Contract](https://github.com/astro-protocol/contract-vault-ao/pulls)
-  - None
-
-- [wAR Contract](https://github.com/astro-protocol/contract-token-wrapped-arweave-ao/pulls)
+- [Astro Backend](https://github.com/astro-protocol/astro-backend/pulls)
   - None
