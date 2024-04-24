@@ -7,9 +7,11 @@ assignees: ''
 
 ---
 
+<!-- Please search existing issues to avoid creating duplicates -->
+
 ## Summary
 
-<!-- This section is required -->
+<!-- This section is REQUIRED -->
 <!-- Please provide a clear and concise summary of the bug. -->
 
 ## How to Reproduce the Bug
