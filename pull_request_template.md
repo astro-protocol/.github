@@ -18,8 +18,6 @@ Items checked below are included in this pull request:
 
 ## Related PRs
 
-- [Astro UI](https://github.com/astro-protocol/astro-ui/pulls)
-  - None
-
-- [Astro Backend](https://github.com/astro-protocol/astro-backend/pulls)
-  - None
+- Link to PR
+- Link to PR
+- Link to PR
