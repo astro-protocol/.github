@@ -1,7 +1,6 @@
 ## Summary
 
-- Added new page `/dashboard`
-- Added docs on navigating through the Dashboard pages
+- Added UI
 - Removed dead components (haven't been used in days)
 
 ## Checklist
@@ -16,25 +15,12 @@ Items checked below are included in this pull request:
 
 - Pull down this branch
 - Run the server: `pnpm dev`
-- Navigate to `/dashboard`
 - Make sure user information is accurate
 
 ## Related PRs
 
-- [Astro UI](https://github.com/astro-protocol/astro-ui/pulls)
-  - None
-
-- [Protocol Hosted Wallet (PHW)](https://github.com/astro-protocol/contract-testnet-protocol-hosted-wallet/pulls)
-  - None
-
-- [USDA Contract](https://github.com/astro-protocol/contract-token-usda-ao/pulls)
-  - None
-
-- [Vault Contract](https://github.com/astro-protocol/contract-vault-ao/pulls)
-  - None
-
-- [wAR Contract](https://github.com/astro-protocol/contract-token-wrapped-arweave-ao/pulls)
-  - None
+- https://github.com/astro-protocol/mpc_thing/pull/1
+- https://github.com/astro-protocol/war-frontend/pull/1
 
 ## Other Notes
 
