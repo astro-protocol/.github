@@ -2,14 +2,6 @@
 
 Placeholder
 
-## Checklist
-
-Items checked below are included in this pull request:
-
-- [ ] Documentation
-- [ ] Unit tests
-- [ ] Integration tests
-
 ## How to Test
 
 - List
@@ -21,3 +13,10 @@ Items checked below are included in this pull request:
 - Link to PR
 - Link to PR
 - Link to PR
+
+## Checklist
+
+- [ ] You added documentation
+- [ ] You added/updated unit tests
+- [ ] You added/updated integration tests
+- [ ] You reviewed other open PRs to keep PRs moving forward
